@@ -70,59 +70,59 @@
 
 ​	游戏主界面，玩家可以选择开始新的游戏或者是读取存档
 
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+![image](https://github.com/cuzxx9929/MyMineCraft/blob/master/img/image-20220817104519762.png)
 
 
 
 ​	读取存档界面，会读取已保存的存档信息，包括日期，时间，天气以及存档时间
 
-![image-20220817105059110](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220817105059110.png)
+![image-20220817105059110](https://github.com/cuzxx9929/MyMineCraft/blob/master/img/image-20220817105059110.png)
 
 
 
 ​	游戏基本界面
 
-![image-20220817105301093](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220817105301093.png)
+![image-20220817105301093](https://github.com/cuzxx9929/MyMineCraft/blob/master/img/image-20220817105301093.png)
 
 
 
 ​	放置破坏方块
 
-![image-20220817105719970](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220817105719970.png)
+![image-20220817105719970](https://github.com/cuzxx9929/MyMineCraft/blob/master/img/image-20220817105719970.png)
 
-![image-20220817105810973](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220817105810973.png)
+![image-20220817105810973](https://github.com/cuzxx9929/MyMineCraft/blob/master/img/image-20220817105810973.png)
 
 
 
 ​	怪物受击
 
-![image-20220817105545956](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220817105545956.png)
+![image-20220817105545956](https://github.com/cuzxx9929/MyMineCraft/blob/master/img/image-20220817105545956.png)
 
 
 
 ​	怪物爆炸
 
-![image-20220817105425888](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220817105425888.png)
+![image-20220817105425888](https://github.com/cuzxx9929/MyMineCraft/blob/master/img/image-20220817105425888.png)
 
-![image-20220817105447880](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220817105447880.png)
+![image-20220817105447880](https://github.com/cuzxx9929/MyMineCraft/blob/master/img/image-20220817105447880.png)
 
 
 
 ​	菜单界面
 
-![image-20220817105921284](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220817105921284.png)
+![image-20220817105921284](https://github.com/cuzxx9929/MyMineCraft/blob/master/img/image-20220817105921284.png)
 
 
 
 ​	存档界面
 
-![image-20220817105951908](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220817105951908.png)
+![image-20220817105951908](https://github.com/cuzxx9929/MyMineCraft/blob/master/img/image-20220817105951908.png)
 
 ---
 
 ### · 工程目录结构说明：
 
-![image-20220817152812134](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220817152812134.png) 
+![image-20220817152812134](https://github.com/cuzxx9929/MyMineCraft/blob/master/img/image-20220817152812134.png) 
 
 **Material**：方块材质球
 

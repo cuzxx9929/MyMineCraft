@@ -24,17 +24,17 @@
 
 ​	
 
-​	**W ，A，S，D：**控制玩家移动
+​	**W ，A，S，D**：控制玩家移动
 
-​	**Q：**切换人称
+​	**Q**：切换人称
 
-​	**E：**更改手中方块
+​	**E**：手中方块
 
-​	**`(反引号键， ESC下面的按键)：**打开游戏操作菜单
+​	**`(反引号键， ESC下面的按键)**：打开游戏操作菜单
 
-​	**鼠标左键：**放置方块/攻击敌人
+​	**鼠标左键**：放置方块/攻击敌人
 
-​	**鼠标右键：** 放置方块
+​	**鼠标右键**： 放置方块
 
 ---
 
@@ -70,7 +70,7 @@
 
 ​	游戏主界面，玩家可以选择开始新的游戏或者是读取存档
 
-![image-20220817104519762](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220817104519762.png)
+![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
 
 
 
@@ -124,14 +124,14 @@
 
 ![image-20220817152812134](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220817152812134.png) 
 
-**Material：**方块材质球
+**Material**：方块材质球
 
-**Plugins：**插件
+**Plugins**：插件
 
-**Save：**游戏存档
+**Save**：游戏存档
 
-**Scene：**游戏场景
+**Scene**：游戏场景
 
 **Scripts**：游戏脚本
 
-**Texture：**图片资源
+**Texture**：图片资源
